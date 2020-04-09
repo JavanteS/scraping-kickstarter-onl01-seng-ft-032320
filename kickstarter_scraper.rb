@@ -25,4 +25,3 @@ end
 #project.css("div.project-thumbnail a img").attribute("src").value
 #project.css("p.bbcard_blurb").text
 #project.css("ul.project-meta span.location-name").text..gsub("%", "").to_i
-create_project_hash
