@@ -10,5 +10,5 @@ def create_project_hash
   binding.pry
 end
 #kickstarter.css("li.project.grid_4").first
-#
+#project.css("h2.bbcard_name strong a").text
 create_project_hash
